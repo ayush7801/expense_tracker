@@ -1,5 +1,4 @@
-import react from 'react';
-import { useState } from 'react/cjs/react.development';
+import react,{useState} from 'react';
 import Expenses from './components/Expenses/Expenses';
 import './components/Expenses/Expenses.css';
 import NewExpense from './components/NewExpenses/NewExpense';
